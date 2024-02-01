@@ -10,5 +10,3 @@ If you have any requests or feedback, please contact me via Steam workshop comme
 /Standalone Mods/ - In-Game Assets from my Workshop Mods.
 
 /Random Stuff/ - Random things I've made that wouldn't have made it into a Workshop mod. *These won't always include .svg or .ai files, sorry.
-
-/Mod Resources/ - Recreated Vanilla Assets, feel free to use without credit.
